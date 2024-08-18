@@ -1,4 +1,7 @@
-Disobedient Machine
+#Disobedient Machine
+
+![image](https://github.com/user-attachments/assets/a06949e9-7829-4b02-8873-5c19a769d706)
+
 Disobedient Cyber Machine project image
 "Disobedient Machine" is an innovative web-based interactive 3D experience that explores themes of autonomous artificial creations within a cyberpunk-inspired digital realm. Drawing inspiration from William Gibson's "Neuromancer," Scott Bukatman's "Disobedient Machines: Animation and Autonomy," and Jules Verne's "Twenty Thousand Leagues Under the Sea," this project creates a unique digital storytelling platform.
 
